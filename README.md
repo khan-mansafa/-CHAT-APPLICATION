@@ -74,3 +74,11 @@ Improves usability and professionalism of the interface.
 📝 Outcome
 
 The final output is a fully functional real-time chat web app where multiple users can join, send messages, view online participants, and navigate through a clean interface. It combines backend networking logic with modern frontend design, making it both practical and visually appealing.
+
+OUTPUT: 
+<img width="1919" height="993" alt="Image" src="https://github.com/user-attachments/assets/9c2ecb48-49eb-49ea-a5f3-7641f0b473d2" />
+<img width="951" height="995" alt="Image" src="https://github.com/user-attachments/assets/7c6500d8-7a99-45cc-8077-536331687279" />
+<img width="1915" height="1028" alt="Image" src="https://github.com/user-attachments/assets/cf687c48-80da-43ed-890e-88b30f820121" />
+
+[task 2 print.pdf](https://github.com/user-attachments/files/22557606/task.2.print.pdf)
+[task 2 print2.pdf](https://github.com/user-attachments/files/22557605/task.2.print2.pdf)

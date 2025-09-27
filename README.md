@@ -12,6 +12,8 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
+TASK 2
+
 📖 Project Description – Real-Time Chat Application
 
 The project is a Real-Time Chat Application that allows multiple users to communicate instantly over the web. The application is built with a Node.js backend using Express and Socket.IO, and a frontend developed with HTML, CSS (TailwindCSS), and JavaScript. The purpose of this project is to demonstrate how modern web technologies enable real-time bidirectional communication between clients and servers.
